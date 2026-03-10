@@ -1,1 +1,8 @@
-{ "name": "Hirehills", "symbol": "HHT", "description": "Hirehills ecosystem token", "image": "https://yourdomain.com/hht-logo.png" } 
+{
+ "name": "Hirehills",
+ "symbol": "HHT",
+ "uri": "https://raw.githubusercontent.com/blistree/token-assets-hht/master/metadata.json",
+ "seller_fee_basis_points": 0,
+ "creators": null,
+ "image": "https://raw.githubusercontent.com/blistree/token-assets-hht/master/logo.jpg"
+}
